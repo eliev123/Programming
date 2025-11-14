@@ -1,0 +1,4 @@
+Category	Length(mm)	Site_Code
+Longest_Male	28	B15
+Longest_Female	29	B29
+Same_Site?	NO
